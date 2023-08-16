@@ -1,3 +1,2 @@
-# git-test
-My first odin Project 
-hello odin
+# odin-recipes
+This is my first project from TOP curriculum.
